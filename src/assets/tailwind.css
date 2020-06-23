@@ -2,13 +2,4 @@
 
 @tailwind components;
 
-/* My custom components */
-.btn {
- @apply block bg-primary text-white rounded px-6 py-2;
-}
-
-.btn:hover {
-  @apply bg-blue-700;
-}
-
 @tailwind utilities;
